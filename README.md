@@ -18,4 +18,9 @@
 
 ## Video Example
 
+[![Gameplay](https://img.youtube.com/vi/ONaf3x5YilE/0.jpg)](https://www.youtube.com/shorts/ONaf3x5YilE "Gameplay")
+
 ## Screenshots
+
+<img src="./readme-content/Example-1.jpg" height="300">
+<img src="./readme-content/Example-2.jpg" height="300">
